@@ -9,7 +9,7 @@
 <br />
 
 ### :pushpin: Channel
-> Blog: 
+> Blog: https://datasw.tistory.com/ 
 <br />
 
 ### :pushpin: 팀 프로젝트
