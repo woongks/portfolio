@@ -1,7 +1,7 @@
 # 김신웅 포트폴리오
 
 ### :pushpin: Intro
-> 안녕하세요
+> 안녕하세요. 백엔드 개발 공부를 하고 있는 김신웅입니다.
 <br />
 
 ### :pushpin: Contact
@@ -17,7 +17,7 @@
 
 > #### 첫 번째 프로젝트 
 > - 개발 기간: 22-03-15 ~ 22-03-26
-> - 기술 스택:   
+> - 기술 스택: [백엔드 스택](https://github.com/woongks/Portfolio-webservice-First-Project-/blob/main/README.md?plain=1#L1)   
 > - 프로젝트 설명: 나만의 포트폴리오를 저장할 수 있는 웹 서비스  
 > - [프로젝트 링크](https://github.com/woongks/Portfolio-webservice-First-Project-)
 <br />
