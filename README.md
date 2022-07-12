@@ -24,7 +24,7 @@
 
 > #### 두 번째 프로젝트 (Game Pearl)
 > - 개발 기간: 22-04-19 ~ 22-05-07  
-> - 기술 스택:  
+> - 기술 스택: [백엔드 스택](https://github.com/GamePearl/Elice-2nd-Project/blob/master/README.md?plain=1#L1)
 > - 프로젝트 설명: 여러 질문에 대한 답변을 기반으로 스팀 게임을 추천해주는 웹 서비스
 > - [프로젝트 링크](https://github.com/GamePearl/Elice-2nd-Project)
 <br />
