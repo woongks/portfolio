@@ -31,7 +31,7 @@
 
 > #### 세 번째 프로젝트 (Phoca)
 > - 개발 기간: 22-06-01 ~ 22-07-02  
-> - 기술 스택: [백엔드 스택](https://github.com/woongks/Phoca-third-project/blob/main/README.md?plain=1#L70)
+> - 기술 스택: [백엔드 스택](https://github.com/woongks/Phoca-third-project/blob/main/README.md?plain=1#L58)
 > - 프로젝트 설명: 사물 인식, 그림 인식을 통해 단어를 저장하는 단어장 웹 서비스
 > - [프로젝트 링크](https://github.com/woongks/Phoca-third-project)
 <br />
